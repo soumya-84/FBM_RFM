@@ -1,0 +1,5 @@
+fbm_mean_field.c  => the code for equal load sharing fiber bundle model
+fbm_nr_neighbour.c  => the code for load sharing between Nr neighbours
+h_k_g_series.c  => code for calculating the inequality indices.
+fuse_aval.f => code for avalanche statistics in the random fuse model.
+ziff.c & ran2.c => random number generators
